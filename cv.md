@@ -8,7 +8,7 @@ Discord: Eugenia (@eugeniare)
 4. I learned C and C# in the university.
 5. ```
 const stringToNumber = function(str){
-  return Number(str)  
+  return Number(str)
 }
 ```
 6. I don't have work experience in programming.
