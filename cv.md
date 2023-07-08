@@ -5,7 +5,8 @@
 Email: evrepni@gmail.com
 Discord: Eugenia (@eugeniare)
 3. I'd like to get new useful knowledge in programming. Now I'm on maternity leave and I need to look for a new job soon. Also I really like to learn something new.
-4. I learned C and C# in the university.
+4. Web-development: HTML5, CSS3, JavaScript
+Version control: GIT, Github
 5. ```
 const stringToNumber = function(str){
   return Number(str)
