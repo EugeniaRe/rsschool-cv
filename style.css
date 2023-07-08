@@ -22,7 +22,7 @@ body {
   }
 
   main {
-    
+  
   }
   .main-container {
     display: flex;
@@ -90,7 +90,7 @@ body {
   .section-item a:hover {
     text-decoration: underline;
   }
-  .section-footer a {
+  .div-footer a {
     padding-left: 30px;
   }
   .footer img {
